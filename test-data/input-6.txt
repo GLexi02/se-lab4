@@ -1,0 +1,3 @@
+# In ALL mode firing is succesful if you managed to shoot at least one torpedo
+GT4500,0,0,1,0
+TORPEDO,ALL

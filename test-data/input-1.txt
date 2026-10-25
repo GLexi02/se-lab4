@@ -1,0 +1,3 @@
+# First Firing in SINGLE mode from primary store
+GT4500,1,0,0,0
+TORPEDO,SINGLE
