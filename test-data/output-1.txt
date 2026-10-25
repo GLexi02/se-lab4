@@ -1,0 +1,2 @@
+SUCCESS # Ship created
+SUCCESS # Primary torpedo store fired

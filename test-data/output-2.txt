@@ -1,0 +1,3 @@
+SUCCESS # Create ship
+SUCCESS # Fire first torpedo from primary store
+SUCCESS # Fire second torpedo from secondary store

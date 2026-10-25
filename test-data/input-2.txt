@@ -1,0 +1,4 @@
+# Two torpedos fired after eachother in SINGLE mode
+GT4500,1,0,1,0 # Only one torpedo for both primary and secondary store, to make sure the primary store can't be fired twice
+TORPEDO,SINGLE
+TORPEDO,SINGLE
